@@ -2,3 +2,4 @@ streamlit
 pypdf
 google-generativeai
 fpdf
+python-docx
