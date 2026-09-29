@@ -1,5 +1,5 @@
 streamlit
 pypdf
-google-generativeai
+google-genai
 fpdf
 python-docx
