@@ -3,3 +3,4 @@ pypdf
 google-genai
 fpdf
 python-docx
+reportlab
